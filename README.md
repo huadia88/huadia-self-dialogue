@@ -11,7 +11,9 @@
 
 ## 在 Codex 使用
 
-将本目录放到本机技能目录中，在对话中指定 `$huadia-self-dialogue`。例如：
+下载Releases中的发行版本包。
+
+将下载好的zip放到本机技能目录中，在对话中指定 `$huadia-self-dialogue`。例如：
 
 > 请用 $huadia-self-dialogue 制作一期自我与本我的对话样片
 
