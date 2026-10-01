@@ -1,0 +1,4 @@
+interface:
+  display_name: "华嗲自我对话制作"
+  short_description: "制作华嗲本我与自我的竖屏对话样片，统一配音镜头字幕与混音规范"
+  default_prompt: "请用 $huadia-self-dialogue 制作或修改一期华嗲自我与本我的对话样片。"
